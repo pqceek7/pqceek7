@@ -1,6 +1,6 @@
 <a href="https://github.com/pqceek7/pqceek7">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pqceek7/pqceek7/blob/main/neofetchstyle.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pqceek7/pqceek7/main/neofetchstyle.svg">
   </picture>
 </a>
 
