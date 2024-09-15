@@ -37,8 +37,8 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="30">Hanoi, Vietnam</tspan>
 <tspan x="370" y="50">——————————————————————————————</tspan>
 <tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">17 years, 3 months</tspan>
-<tspan x="370" y="110" class="keyColor">HS</tspan>: <tspan class="valueColor">Nguyen Hue High School for the Gifted</tspan><tspan class="commentColor"> #RIT</tspan>
-<tspan x="370" y="130" class="keyColor">Persue</tspan>: <tspan class="valueColor">Space Science and Satellite technology</tspan><tspan class="commentColor"> #CPET</tspan>
+<tspan x="370" y="110" class="keyColor">HS</tspan>: <tspan class="valueColor">Nguyen Hue High School for the Gifted</tspan><tspan class="commentColor"></tspan>
+<tspan x="370" y="130" class="keyColor">Persue</tspan>: <tspan class="valueColor">Space Science and Satellite technology</tspan><tspan class="commentColor"></tspan>
 <tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode</tspan>
 <tspan x="370" y="170" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, Latex :v</tspan>
 <tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Vietnamese</tspan>
