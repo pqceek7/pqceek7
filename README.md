@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @pqceek7
-- 👀 I’m interested in physics
+<a href="https://github.com/pqceek7">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pqceek7/pqceek7/blob/main/neofetchstyle.svg">
+  </picture>
+</a>
 
 <!---
 pqceek7/pqceek7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
